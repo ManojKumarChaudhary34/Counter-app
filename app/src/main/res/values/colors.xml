@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_clr">#2F5EAC</color>
+    <color name="text_clr">#A29D9E</color>
+    <color name="bg_clr">#F6ECED</color>
+    <color name="counter_bg_clr1">#FF785A</color>
+    <color name="counter_bg_clr2">#E6EDF5</color>
+    <color name="disabled_clr">#F1F1F1</color>
+</resources>
